@@ -1,4 +1,4 @@
-IGOR FELIPI AQUI, SEJA BEM VINDO!
+IGOR FILIPE AQUI, SEJA BEM VINDO!
 
 Futuro cientista de dados apaixonado por tecnologia, a procura de uma oportunidade no ramo. Atualmente estudando analise de dados e Bach-End. 
 
