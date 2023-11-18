@@ -1,16 +1,22 @@
-### Hi there 👋
+IGOR FELIPI AQUI, SEJA BEM VINDO!
 
-<!--
-**IgorFelipi/IgorFelipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Futuro cientista de dados apaixonado por tecnologia, a procura de uma oportunidade no ramo. Atualmente estudando analise de dados e Bach-End. 
 
-Here are some ideas to get you started:
+# Redes sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igor-filipe-rodrigues-887890213/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+554396907720)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:igortendo@hotmail.com)
+
+# Linguagens que uso atualmente
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+# Card de Atividades GIt-Hub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorFelipi&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
