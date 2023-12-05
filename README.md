@@ -1,6 +1,6 @@
 IGOR FILIPE AQUI, SEJA BEM VINDO!
 
-Futuro cientista de dados apaixonado por tecnologia, a procura de uma oportunidade no ramo. Atualmente estudando analise de dados e Bach-End. 
+Futuro cientista de dados apaixonado por tecnologia, a procura de uma oportunidade no ramo. Atualmente estudando analise de dados e Back-End. 
 
 # Redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igor-filipe-rodrigues-887890213/)
